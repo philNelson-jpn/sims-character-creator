@@ -14,6 +14,7 @@ const MaxWidthWrapper = ({
     >
       {children}
     </div>
+
   );
 };
 
