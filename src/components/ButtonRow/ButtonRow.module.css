@@ -1,5 +1,7 @@
 .buttonRow {
+	/* force the buttons to not line break */
 	white-space: nowrap;
 	overflow: auto;
-	overflow-x: scroll;
+	margin: 0 -22px -18px -22px;
+	padding: 22px;
 }
